@@ -2,6 +2,6 @@ Apps:
   SimpleContract:
     Name: Election
     Description: Election Contract
-    path: /contract/Election.sol
+    path: /contracts/Election.sol
     language: solidity
     README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
