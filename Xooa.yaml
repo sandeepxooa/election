@@ -1,7 +1,9 @@
 Apps:
-  SimpleContract:
+  TruffleSimpleStorage:
     Name: Election
-    Description: Election Contract
-    path: /contracts/Election.sol
+    Description: Solidity Smart Contract using Truffle framework
+    path: ./
+    mainSolFile: Election
     language: solidity
-    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
+    truffle: true
+    README: https://github.com/rajatxooa/truffleSimpleStorage/blob/master/README.md
